@@ -1,3 +1,5 @@
 export const someCode = (code: string): string => {
-  return 'some value';
-}
+  return `some value ${code}`;
+};
+
+someCode('asd');
