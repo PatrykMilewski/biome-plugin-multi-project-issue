@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26da2281-9bd1-4596-8bdf-27210f4dd85e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/biome.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/first-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biome.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/someCode.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/.idea/biome.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/.idea/second-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/biome.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/src/someCode.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../second-project/tsconfig.json" afterDir="false" />
-    </list>
+    <list default="true" id="26da2281-9bd1-4596-8bdf-27210f4dd85e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +25,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/pmilewski/WebstormProjects/biome-plugin-multi-project-issue/second-project/.idea",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "Settings.Biome",
     "ts.external.directory.path": "/Users/pmilewski/WebstormProjects/biome-plugin-multi-project-issue/first-project/node_modules/typescript/lib"
